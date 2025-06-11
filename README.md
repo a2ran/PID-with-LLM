@@ -17,7 +17,7 @@ source venv/bin/activate
 pip instal -r requirements.txt
 ```
 
-2. ollama 실행
+2. ollama 실행 (로컬LLM)
 
 3. streamlit 코드 실행
 
